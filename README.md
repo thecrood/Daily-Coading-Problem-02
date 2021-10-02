@@ -1,4 +1,4 @@
-# Daily-Coading-Problem-#2
+# Daily-Coading-Problem-02
 
 This problem was asked by Uber.
 
